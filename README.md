@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on HPC 
+- 🔭 I’m currently working in HPC System Engineering filed 
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking forward to collaborate on Data Science and HPC related issues
 - 🤔 I’m looking forward to discuss topics related with Statistics, Mathematics, AI
